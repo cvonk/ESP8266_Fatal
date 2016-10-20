@@ -1,12 +1,12 @@
 {
-    "name": "EspSaveCrash",
-    "version": "1.0.2",
+    "name": "Fatal",
+    "version": "1.0",
     "keywords": "crash, exception, restart, software WDT, diagnostics",
-    "description": "Automatically saves exception details and stack trace to flash in case of ESP8266 crash.",
+    "description": "Save and retrieve stack straces to and from nonvolatile storage",
     "repository":
     {
         "type": "git",
-        "url": "https://github.com/krzychb/EspSaveCrash.git"
+        "url": "https://github.com/cvonk/ESP8266_Fatal.git"
     },
     "exclude": "extras",
     "frameworks": "arduino",

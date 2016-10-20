@@ -6,11 +6,12 @@
 # Datatypes (KEYWORD1)
 ###########################################
 
-SaveCrash	KEYWORD1
+Fatal	KEYWORD1
 
 ###########################################
 # Methods and Functions (KEYWORD2)
 ###########################################
 
+begin	KEYWORD2
 print	KEYWORD2
 clear	KEYWORD2
