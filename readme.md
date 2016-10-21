@@ -1,4 +1,4 @@
-# ESP8266_Fatal
+# ESP8266_Fatal [![Build Status](https://travis-ci.org/cvonk/esp8266-fatal.svg?branch=master)](https://travis-ci.org/cvonk/esp8266-fatal)
 ## Save fatal exception details to non-volatile memory
 
 My personal library based and inspired by krzychb's [EspSaveCrash](https://github.com/krzychb/EspSaveCrash)
