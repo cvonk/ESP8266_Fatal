@@ -1,4 +1,10 @@
-# ESP8266_Fatal [![Build Status](https://travis-ci.org/cvonk/esp8266-fatal.svg?branch=master)](https://travis-ci.org/cvonk/esp8266-fatal)
+# ESP8266_Fatal
+
+[![Build Status](https://travis-ci.org/cvonk/esp8266-fatal.svg?branch=master)](https://travis-ci.org/cvonk/esp8266-fatal)
+[![GitHub Discussions](https://img.shields.io/github/discussions/cvonk/esp8266-fatal)](https://github.com/cvonk/esp8266-fatal/discussions)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/cvonk/esp8266-fatal)
+![GitHub](https://img.shields.io/github/license/cvonk/esp8266-fatal)
+
 ## Save fatal exception details to non-volatile memory
 
 My personal library based and inspired by krzychb's [EspSaveCrash](https://github.com/krzychb/EspSaveCrash)
